@@ -1,0 +1,71 @@
+# Visual Studio specific
+.vs/
+*.user
+*.suo
+*.cache
+*.ilk
+*.log
+*.pdb
+*.obj
+*.tlog
+*.lastbuildstate
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.pch
+*.idb
+*.ipch
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.sqlite
+*.pyc
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+*.exe
+*.dll
+*.app
+*.ipa
+*.dylib
+*.so
+*.lib
+*.a
+*.exp
+*.manifest
+*.nuspec
+*.nupkg
+*.log
+*.msi
+*.mst
+*.csproj.user
+*.sln.docstates
+
+# Crystal Reports files
+*.rpt.cache
+*.rptsettings
+*.temp
+*.ttx
+
+# Application configuration files
+*.config
+*.settings
+*.json
+
+# Crash reports and logs
+*.stackdump
+*.dmp
+
+# Rider specific
+.idea/
+*.sln.iml
+
+# Mac and Linux file system files
+.DS_Store
+.AppleDouble
+.LSOverride
